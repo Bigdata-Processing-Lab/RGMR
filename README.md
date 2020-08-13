@@ -4,15 +4,14 @@ Repository for Graph Mining Research
 
 ## Table of Contents
 
-### Table of Contents
-1. [Books](https://github.com/jihoo-kim/awesome-RecSys#1-books)
-2. [Conferences](https://github.com/jihoo-kim/awesome-RecSys#2-conferences)
-3. [Researchers](https://github.com/jihoo-kim/awesome-RecSys#3-researchers)
-4. [Papers](https://github.com/jihoo-kim/awesome-RecSys#4-papers)
-5. [GitHub Repositories](https://github.com/jihoo-kim/awesome-RecSys#5-github-repositories)
-6. [Useful Sites](https://github.com/jihoo-kim/awesome-RecSys#6-useful-sites)
-7. [Youtube Videos](https://github.com/jihoo-kim/awesome-RecSys#7-youtube-videos)
-8. [SlideShare PPT](https://github.com/jihoo-kim/awesome-RecSys#8-slideshare-ppt)
+1. [Books](https://github.com/Bigdata-Processing-Lab/RGMR#1-books)
+2. [Conferences](https://github.com/Bigdata-Processing-Lab/RGMR#2-conferences)
+3. [Journals](https://github.com/Bigdata-Processing-Lab/RGMR#3-journals)
+4. [Researchers](https://github.com/Bigdata-Processing-Lab/RGMR#4-researchers)
+5. [Papers](https://github.com/Bigdata-Processing-Lab/RGMR#5-papers)
+6. [GitHub Repositories](https://github.com/Bigdata-Processing-Lab/RGMR#6-github-repositories)
+7. [Lectures](https://github.com/Bigdata-Processing-Lab/RGMR#7-lectures)
+8. [Useful Sites](https://github.com/Bigdata-Processing-Lab/RGMR#8-useful-sites)
 
 ## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
