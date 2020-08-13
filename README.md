@@ -16,6 +16,7 @@ Repository for Graph Mining Research
 ## 1. Books
 * [Network Science](http://networksciencebook.com/) (2015, Albert-László Barabási)
 * [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf) (2010, David Easley and Jon Kleinberg)
+* [Social Media Mining An Introduction](http://dmml.asu.edu/smm/SMM.pdf) (2014, Reza Zafarani, Mohammed Ali Abbasi, and Huan Liu)
 
 ## 2. Conferences
 * [KDD](https://www.kdd.org/) (ACM SIGKDD International Conference on Knowledge discovery and data mining)
