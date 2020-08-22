@@ -41,3 +41,10 @@ Repository for Graph Mining Research
 * [TKDE](https://www.computer.org/csdl/journal/tk) (IEEE Transactions on Knowledge and Data Engineering)
 * [Nature Communications](https://www.nature.com/ncomms/) (Nature Communications)
 * [Physical Review E](https://journals.aps.org/pre/) (Physical Review E)
+
+## 4. Researchers
+* [Jure Leskovec](https://cs.stanford.edu/people/jure/) (Associate Professor of Computer Science at Stanford Univ.)
+
+## 5. Papers
+  ### 5-1. Graph-based Recommendation Systesm
+  * [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation] (https://zjuchenlong.github.io/papers/SIGIR_2020.pdf) (SIGIR 2020)
