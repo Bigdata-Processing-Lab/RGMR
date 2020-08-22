@@ -47,4 +47,4 @@ Repository for Graph Mining Research
 
 ## 5. Papers
   ### 5-1. Graph-based Recommendation Systesm
-  * [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation] (https://zjuchenlong.github.io/papers/SIGIR_2020.pdf) (SIGIR 2020)
+  * [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://zjuchenlong.github.io/papers/SIGIR_2020.pdf) (SIGIR 2020)
